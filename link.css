@@ -19,7 +19,7 @@
 .contact{ height: 300px; width: auto; background-color: azure;}
 .contact h1{ text-align: center; color: aqua;}
 .contact p { font-size: medium; margin: 50px auto;}
-.intro {background-color:rgb(174, 203, 204); height: 300px; width: auto; margin-top: 2px;}
+.intro {background-color:rgb(174, 203, 204); height: 300px; width: auto;}
 .intro h2 { text-align: center;}
 .intro p {justify-content: space-between; line-height: 20px; margin-top: 10px;font-size: larger;}
 .intro ul li{ line-height: 20px; margin-top: 5px;}
